@@ -175,8 +175,6 @@ Bug reports and pull requests are welcome on GitHub at <https://github.com/rohit
 
 To set up your environ
 
-https://github.com/rlaahrwhd/rlaahrwhd.github.io/assets/103015094/06a1c28c-edab-4fef-a06f-a8e2b0f571ac
-
 ment to develop this theme, run `bundle install`.
 
 Your theme is setup just like a normal Jekyll site! To test your theme, run `bundle exec jekyll serve` and open your browser at `http://localhost:4000`. This starts a Jekyll server using your theme. Add pages, documents, data, etc. like normal to test your theme's contents. As you make modifications to your theme and to your content, your site will regenerate and you should see the changes in the browser after a refresh, just like normal.
